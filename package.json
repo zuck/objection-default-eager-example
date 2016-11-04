@@ -1,0 +1,30 @@
+{
+  "name": "objection-default-eager-example",
+  "productName": "objection-default-eager-example",
+  "version": "0.1.0",
+  "description": "Test of default eager loading for Objection.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuck/objection-default-eager-example.git"
+  },
+  "keywords": [
+    "objection",
+    "knex",
+    "eager",
+    "db"
+  ],
+  "author": "Emanuele Bertoldi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zuck/objection-default-eager-example/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "sqlite3": ">=3.1.6",
+    "knex": ">=0.12.5",
+    "objection": ">=0.6.0"
+  }
+}
